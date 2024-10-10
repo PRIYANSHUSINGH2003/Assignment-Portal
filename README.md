@@ -99,7 +99,3 @@ This project is licensed under the MIT License.
 ## Issues and Contributions
 
 If you encounter any issues or would like to contribute to the project, please feel free to open an issue or submit a pull request.
-
----
-
-This `README.md` provides all necessary details about the project, including setup instructions, dependencies, and how to run the app. Let me know if you want to add or modify anything!
