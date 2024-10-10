@@ -1,7 +1,3 @@
-Below is an example of how you can structure your `README.md` file for your project:
-
----
-
 # Assignment Portal
 
 A web application to manage assignment submissions and student progress, using Node.js, MongoDB, and Mongoose.
@@ -52,7 +48,7 @@ Ensure that you have the following installed before setting up the project:
    Add the following lines to the `.env` file:
 
    ```bash
-   DATABASE=mongodb+srv://<username>:<password>@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority
+   DATABASE=mongodb+srv://<username>:<password>@cluster0.mongodb.net/?retryWrites=true&w=majority
    JWT_SECRET=your_jwt_secret_key
    PORT=5000
    ```
